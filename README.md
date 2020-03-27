@@ -1,5 +1,5 @@
 # launch-updated-ecs-instance
-A simple python script which launches an Amazon Linux 2 ECS instance from the most updated AMI. The AMI is obtained from AWS Systems Manager as seen in [AWS documentation](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-optimized_AMI.html#al2ami).
+A simple python script which launches an Amazon Linux 2 ECS instance from the most updated ECS-optimized AMI. The AMI is obtained from AWS Systems Manager as seen in [AWS documentation](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-optimized_AMI.html#al2ami).
 
 Pre-requisites:
   - python3
